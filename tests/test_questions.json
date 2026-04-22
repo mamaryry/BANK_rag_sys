@@ -1,0 +1,22 @@
+[
+  {"question": "Какая ставка по потребительскому кредиту Универсальный?", "gold_source": "01_credit.txt"},
+  {"question": "Можно ли досрочно погасить кредит без штрафов?", "gold_source": "01_credit.txt"},
+  {"question": "Какой первоначальный взнос нужен для автокредита?", "gold_source": "01_credit.txt"},
+  {"question": "Какая ставка по образовательному кредиту с господдержкой?", "gold_source": "01_credit.txt"},
+  {"question": "Какая максимальная ставка у вклада Максимальный доход?", "gold_source": "02_deposit.txt"},
+  {"question": "Можно ли частично снимать деньги с вклада Управляемый?", "gold_source": "02_deposit.txt"},
+  {"question": "Какая ставка у накопительного счета Копилка в первые два месяца?", "gold_source": "02_deposit.txt"},
+  {"question": "Кому доступен вклад Пенсионный Плюс?", "gold_source": "02_deposit.txt"},
+  {"question": "Какая ставка по семейной ипотеке?", "gold_source": "03_mortgage.txt"},
+  {"question": "Можно ли использовать материнский капитал как часть первоначального взноса?", "gold_source": "03_mortgage.txt"},
+  {"question": "Какой первоначальный взнос по ипотеке на вторичное жилье?", "gold_source": "03_mortgage.txt"},
+  {"question": "Что будет со ставкой по ипотеке при отказе от страхования жизни?", "gold_source": "03_mortgage.txt"},
+  {"question": "Какой минимальный возраст заемщика по базовым требованиям?", "gold_source": "04_requirements.txt"},
+  {"question": "Какие документы нужны для подачи заявки на кредит?", "gold_source": "04_requirements.txt"},
+  {"question": "Нужна ли справка о доходах зарплатному клиенту банка?", "gold_source": "04_requirements.txt"},
+  {"question": "Какие требования предъявляются к поручителям?", "gold_source": "04_requirements.txt"},
+  {"question": "Как узнать остаток долга по кредиту?", "gold_source": "05_faq.txt"},
+  {"question": "Можно ли поменять дату ежемесячного платежа?", "gold_source": "05_faq.txt"},
+  {"question": "Какая максимальная сумма страховки по вкладам?", "gold_source": "05_faq.txt"},
+  {"question": "Что делать при утере банковской карты?", "gold_source": "05_faq.txt"}
+]
